@@ -1,0 +1,47 @@
+
+mapIcons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MapIcon1
+  rotate: false
+  xy: 1, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MapIcon2
+  rotate: false
+  xy: 136, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MapIcon3
+  rotate: false
+  xy: 271, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MapIcon4
+  rotate: false
+  xy: 406, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MapIcon5
+  rotate: false
+  xy: 541, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+MapIcon6
+  rotate: false
+  xy: 676, 1
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1

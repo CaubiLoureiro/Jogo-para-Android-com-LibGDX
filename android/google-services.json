@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320312266830",
+    "project_id": "alquimia-grupo01verde20221",
+    "storage_bucket": "alquimia-grupo01verde20221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320312266830:android:04ee7a72bf8a7f19b9b31f",
+        "android_client_info": {
+          "package_name": "br.uff.ic.dm.verde20221"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320312266830-v6v1r2guloh4946204tsm9j5emss5nn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.uff.ic.dm.verde20221",
+            "certificate_hash": "ccc986c0865d3664db648f304480f6ec01879146"
+          }
+        },
+        {
+          "client_id": "320312266830-cpcjgb8u1125p2sdc3f0sblgnaevc5v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwdA9UK5J18uOTCDoipgGZk2AbB84x_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320312266830-cpcjgb8u1125p2sdc3f0sblgnaevc5v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
